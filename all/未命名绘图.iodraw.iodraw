@@ -50,7 +50,7 @@
           <mxGeometry x="429.94" y="527.7" width="99" height="575.31" as="geometry" />
         </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-69" value="&lt;h1&gt;k-inf&lt;/h1&gt;&lt;h1&gt;(TCN+Transform处理)&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="928" width="376" height="88" as="geometry" />
+          <mxGeometry x="8" y="928" width="376" height="88" as="geometry" />
         </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-70" value="&lt;h1&gt;PPPF&lt;/h1&gt;&lt;h1&gt;（MLP+LSBoost处理）&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="928" width="384" height="88" as="geometry" />
