@@ -64,14 +64,10 @@
             <mxPoint x="256" y="928.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9lW_5yKZTHFVitG0rZih-76" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;spacing=3;fontStyle=0;align=center;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;strokeWidth=2;sourcePerimeterSpacing=0;spacingBottom=0;" edge="1" parent="1">
+        <mxCell id="9lW_5yKZTHFVitG0rZih-77" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;spacing=3;fontStyle=0;align=center;fontSize=11;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="548.935" y="848.0049999999998" as="sourcePoint" />
-            <mxPoint x="544" y="911.16" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="548" y="879.16" />
-              <mxPoint x="544" y="896" />
-            </Array>
+            <mxPoint x="264" y="870.5250000000005" as="sourcePoint" />
+            <mxPoint x="264" y="936.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
