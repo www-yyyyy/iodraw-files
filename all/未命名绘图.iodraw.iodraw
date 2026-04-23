@@ -58,10 +58,16 @@
         <mxCell id="9lW_5yKZTHFVitG0rZih-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512" y="928" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9lW_5yKZTHFVitG0rZih-74" value="&#xa;&#xa;&#xa;&lt;p style=&quot;text-indent:30.0pt;mso-char-indent-count:2.0&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:15.0pt;line-height:115%;font-family:仿宋_GB2312;color:black;&#xa;mso-themecolor:text1&quot;&gt;种新的技术路径。&lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;&#xa;line-height:115%;font-family:仿宋_GB2312&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;spacing=3;fontStyle=0;align=center;" edge="1" parent="1">
+        <mxCell id="9lW_5yKZTHFVitG0rZih-74" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;spacing=3;fontStyle=0;align=center;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="254" y="860.5250000000005" as="sourcePoint" />
             <mxPoint x="254" y="926.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lW_5yKZTHFVitG0rZih-76" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;spacing=3;fontStyle=0;align=center;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="262" y="868.5250000000005" as="sourcePoint" />
+            <mxPoint x="262" y="934.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
