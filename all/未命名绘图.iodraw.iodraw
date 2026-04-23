@@ -57,16 +57,6 @@
         <mxCell id="9lW_5yKZTHFVitG0rZih-45" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;rotation=90;fontStyle=0;horizontal=1;verticalAlign=middle;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="380.72" y="755.28" width="78.56" height="278.75" as="geometry" />
         </mxCell>
-        <mxCell id="9lW_5yKZTHFVitG0rZih-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.028;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9lW_5yKZTHFVitG0rZih-40" target="9lW_5yKZTHFVitG0rZih-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="420" y="848" />
-              <mxPoint x="424" y="848" />
-              <mxPoint x="424" y="853" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
