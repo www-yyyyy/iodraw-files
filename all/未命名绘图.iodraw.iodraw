@@ -41,8 +41,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420.66666666666697" y="768.0000000000005" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="408" y="712" />
-              <mxPoint x="408" y="712" />
+              <mxPoint x="416" y="720" />
+              <mxPoint x="416" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           <mxGeometry x="230" y="610" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-45" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;rotation=90;fontStyle=0;horizontal=1;verticalAlign=middle;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="368.09" y="659.94" width="94.37" height="318.69" as="geometry" />
+          <mxGeometry x="368.09" y="656" width="94.37" height="318.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
