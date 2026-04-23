@@ -55,10 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-45" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;rotation=90;fontStyle=0;horizontal=1;verticalAlign=middle;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="386.87" y="680" width="66.25" height="278.75" as="geometry" />
-        </mxCell>
-        <mxCell id="9lW_5yKZTHFVitG0rZih-60" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="776" width="20" height="20" as="geometry" />
+          <mxGeometry x="377.43" y="670.57" width="85.12" height="278.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
