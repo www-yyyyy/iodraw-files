@@ -50,7 +50,7 @@
           <mxGeometry x="429.94" y="527.7" width="99" height="575.31" as="geometry" />
         </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-69" value="&lt;h1&gt;k-inf&lt;/h1&gt;&lt;h1&gt;(TCN+Transform处理)&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8" y="928" width="376" height="88" as="geometry" />
+          <mxGeometry y="928" width="384" height="88" as="geometry" />
         </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-70" value="&lt;h1&gt;PPPF&lt;/h1&gt;&lt;h1&gt;（MLP+LSBoost处理）&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="928" width="384" height="88" as="geometry" />
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-80" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="390.75" y="859.75" width="177.5" height="573" as="geometry" />
+          <mxGeometry x="370.87" y="839.88" width="217.25" height="573" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
