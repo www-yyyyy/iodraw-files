@@ -40,17 +40,8 @@
         <mxCell id="9lW_5yKZTHFVitG0rZih-40" value="&lt;h1&gt;结论（保留全特征）&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=0;horizontal=1;verticalAlign=middle;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="610" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9lW_5yKZTHFVitG0rZih-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;align=center;fontStyle=0;horizontal=1;verticalAlign=middle;textShadow=0;" edge="1" parent="1" source="9lW_5yKZTHFVitG0rZih-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="281" y="880" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="281" y="850" />
-              <mxPoint x="281" y="850" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9lW_5yKZTHFVitG0rZih-45" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;rotation=90;fontStyle=0;horizontal=1;verticalAlign=middle;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="380.72" y="755.28" width="78.56" height="278.75" as="geometry" />
+          <mxGeometry x="380.72" y="672" width="78.56" height="278.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
